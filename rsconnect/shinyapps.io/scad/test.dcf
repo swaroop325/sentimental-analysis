@@ -1,0 +1,12 @@
+name: test
+title: Test
+username:
+account: scad
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 271793
+bundleId: 1207000
+url: https://scad.shinyapps.io/test/
+when: 1517763908.35441
+asMultiple: FALSE
+asStatic: FALSE

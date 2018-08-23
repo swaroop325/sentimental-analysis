@@ -1,0 +1,12 @@
+name: minipro
+title: Minipro
+username:
+account: raishwaryaraj
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 316186
+bundleId: 1304112
+url: https://raishwaryaraj.shinyapps.io/minipro/
+when: 1522942112.13391
+asMultiple: FALSE
+asStatic: FALSE

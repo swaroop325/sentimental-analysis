@@ -1,0 +1,12 @@
+name: msajce
+title: Msajce
+username:
+account: scad
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 260157
+bundleId: 1206931
+url: https://scad.shinyapps.io/msajce/
+when: 1517759119.99254
+asMultiple: FALSE
+asStatic: FALSE
